@@ -10,4 +10,5 @@ Pessoa foi aprovada no exame de direção?
 Resultado se a pessoa pode ou não solicitar sua carteira nacional de habilitação
 FIM.
 
-(https://user-images.githubusercontent.com/103973579/169722083-9b33f88c-8862-4515-8eaf-1ca5ef70820d.png)
+![fluxogramacnh](https://user-images.githubusercontent.com/103973579/169722159-46c9747a-04db-4a41-9228-487b48248892.png)
+
